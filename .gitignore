@@ -1,0 +1,9 @@
+# --- Project Specific Ignore ---
+# Ignore all data files
+data/
+*.csv
+*.zip
+
+# Ignore Google Drive mount points (if working locally)
+drive/
+.ipynb_checkpoints/
